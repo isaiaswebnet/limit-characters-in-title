@@ -47,8 +47,8 @@ class Limit_Characters_Title {
     public function the_title_limit ( $title_limit ) {
   		global $post;
   		if ( in_the_loop() && is_home ) {
- 			$charlimit = get_post_custom( $post->ID );
-    		$title_limit = substr( $title_limit, 0, $charlimit["charlimit"][0] );
+ 			$charlimit = get_post_meta( $post->ID, "charlimit", true );
+    		$title_limit = $charlimit==''?$title_limit:substr( $title_limit, 0, $charlimit );
   		}
   		return $title_limit;
 	}
