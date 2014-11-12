@@ -24,7 +24,7 @@ Limite o número de caracteres no título.
 
 == Installation ==
 
-* Download the plugin and put it in the plugin folder wp-content/plugins;
+* Download the plugin and put it in the plugin folder wp-content/pluginsor or you must install it by uploading the file to WordPress Dashboard> Plugins> Add New and click the "Upload Plugin";
 
 * Activate the plugin.
 
