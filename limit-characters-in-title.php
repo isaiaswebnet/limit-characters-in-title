@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Limit Characters in Title
-Description: Limit the number of characters in Title.
+Description: Limit the number of characters in Title (Post/Page).
 Author: Isaías Oliveira
 Author URI: https://www.facebook.com/isaiaswebnet
 Version: 1.0
