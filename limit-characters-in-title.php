@@ -34,7 +34,7 @@ class Limit_Characters_Title {
 	public function the_title_limit_meta (){
 		global $post;
  		$charlimit = get_post_custom( $post->ID );
-		echo '<input type="number" name="charlimit" value="'.$charlimit["charlimit"][0].'" min="0" max="500" size="3" />';
+		echo '<input type="text" name="charlimit" value="'.$charlimit["charlimit"][0].'" size="3" />';
 	}
 	
 	/* Saves Meta Box Post/Page */
