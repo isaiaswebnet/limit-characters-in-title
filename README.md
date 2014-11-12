@@ -16,11 +16,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == English Description ==
 
-Limit the number of characters in the title.
+Limit the number of characters in the title (Post/Page).
 
 == Descrição em Português ==
 
-Limite o número de caracteres no título.
+Limite o número de caracteres no título (Post/Página).
 
 == Installation ==
 
