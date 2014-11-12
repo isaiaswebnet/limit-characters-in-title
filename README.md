@@ -2,6 +2,8 @@
 
 Contributors: Isaías Oliveira
 
+Donate link: https://pagseguro.uol.com.br/checkout/doacao.jhtml?email_cobranca=isaiasskynet@hotmail.com&moeda=BRL
+
 Tags: function, development
 
 Requires at least: 3.9
