@@ -53,8 +53,9 @@ class Limit_Characters_Title {
   		return $title_limit;
 	}
 
-}  // close class
-
-endif; // close class_exists
+}  // End Limit_Characters_Title class
 
 $lctitle = new Limit_Characters_Title;
+
+endif; // End Limit_Characters_Title class_exists
+
